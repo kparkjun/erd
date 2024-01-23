@@ -1,14 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T11:38:55.842Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="rm5CJoeN4WG2Oa15mpFH" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-23T11:45:58.713Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="8fiU4UIhEA39LbL54qu4" version="22.1.21" type="github">
   <diagram name="페이지-1" id="OqPZp-BGENyyA1lYjmIj">
     <mxGraphModel dx="794" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="s0FkoR5mV3d7hbCFUnP8-2" value="고객" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="s0FkoR5mV3d7hbCFUnP8-2" value="고객" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="350" y="180" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="s0FkoR5mV3d7hbCFUnP8-3" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="300" y="100" width="100" height="40" as="geometry" />
+        <mxCell id="s0FkoR5mV3d7hbCFUnP8-3" value="고객명" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="280" y="110" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cMAhk-5sc9wEbmKok3kV-2" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s0FkoR5mV3d7hbCFUnP8-3" target="s0FkoR5mV3d7hbCFUnP8-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="220" as="sourcePoint" />
+            <mxPoint x="490" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cMAhk-5sc9wEbmKok3kV-3" value="전화번호" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="410" y="110" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
