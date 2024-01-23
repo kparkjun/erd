@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T10:56:15.801Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" version="22.1.21" etag="i48lLVrbqmLV8yZ59Zvi" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-23T11:38:55.842Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="rm5CJoeN4WG2Oa15mpFH" version="22.1.21" type="github">
   <diagram name="페이지-1" id="OqPZp-BGENyyA1lYjmIj">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="s0FkoR5mV3d7hbCFUnP8-2" value="고객" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="350" y="180" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s0FkoR5mV3d7hbCFUnP8-3" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="300" y="100" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
